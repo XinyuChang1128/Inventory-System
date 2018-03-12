@@ -1,0 +1,42 @@
+[
+  {
+    "wkID": 1,
+    "wkName": "workshoop1",
+    "wkStoreName": "CBD",
+    "Date": "Mon",
+    "Time": "1 PM",
+    "avaPlace": 9
+  },
+  {
+    "wkID": 2,
+    "wkName": "workshoop2",
+    "wkStoreName": "North",
+    "Date": "Mon",
+    "Time": "1 PM",
+    "avaPlace": 8
+  },
+  {
+    "wkID": 3,
+    "wkName": "workshoop3",
+    "wkStoreName": "West",
+    "Date": "Mon",
+    "Time": "1 PM",
+    "avaPlace": 10
+  },
+  {
+    "wkID": 4,
+    "wkName": "workshoop1",
+    "wkStoreName": "CBD",
+    "Date": "Mon",
+    "Time": "1 PM",
+    "avaPlace": 0
+  },
+  {
+    "wkID": 5,
+    "wkName": "workshoop1",
+    "wkStoreName": "East",
+    "Date": "Mon",
+    "Time": "1 PM",
+    "avaPlace": 7
+  }
+]

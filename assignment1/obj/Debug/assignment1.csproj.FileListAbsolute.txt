@@ -1,0 +1,23 @@
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\wdt\assignment1\assignment1\assignment1\bin\Debug\assignment1.exe.config
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\wdt\assignment1\assignment1\assignment1\bin\Debug\assignment1.exe
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\wdt\assignment1\assignment1\assignment1\bin\Debug\assignment1.pdb
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\wdt\assignment1\assignment1\assignment1\obj\Debug\assignment1.csprojResolveAssemblyReference.cache
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\wdt\assignment1\assignment1\assignment1\obj\Debug\assignment1.exe
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\wdt\assignment1\assignment1\assignment1\obj\Debug\assignment1.pdb
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\wdt\assignment1\assignment1\assignment1\bin\Debug\Newtonsoft.Json.dll
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\wdt\assignment1\assignment1\assignment1\bin\Debug\Newtonsoft.Json.xml
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\Configuration\Desktop\assignment1\assignment1\assignment1\bin\Debug\assignment1.exe.config
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\Configuration\Desktop\assignment1\assignment1\assignment1\bin\Debug\assignment1.exe
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\Configuration\Desktop\assignment1\assignment1\assignment1\bin\Debug\assignment1.pdb
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\Configuration\Desktop\assignment1\assignment1\assignment1\bin\Debug\Newtonsoft.Json.dll
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\Configuration\Desktop\assignment1\assignment1\assignment1\bin\Debug\Newtonsoft.Json.xml
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\Configuration\Desktop\assignment1\assignment1\assignment1\obj\Debug\assignment1.exe
+\\ntapprdfs01n01.rmit.internal\sl9\s3525209\Configuration\Desktop\assignment1\assignment1\assignment1\obj\Debug\assignment1.pdb
+C:\Users\Xinyu Chang\Desktop\assignment1\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\Xinyu Chang\Desktop\assignment1\assignment1\bin\Debug\assignment1.exe
+C:\Users\Xinyu Chang\Desktop\assignment1\assignment1\bin\Debug\assignment1.pdb
+C:\Users\Xinyu Chang\Desktop\assignment1\assignment1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Xinyu Chang\Desktop\assignment1\assignment1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xinyu Chang\Desktop\assignment1\assignment1\obj\Debug\assignment1.exe
+C:\Users\Xinyu Chang\Desktop\assignment1\assignment1\obj\Debug\assignment1.pdb
+C:\Users\Xinyu Chang\Desktop\assignment1\assignment1\obj\Debug\assignment1.csprojResolveAssemblyReference.cache

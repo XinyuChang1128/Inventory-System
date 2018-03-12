@@ -1,0 +1,137 @@
+[
+  {
+    "ID": 1,
+    "Store": "EAST",
+    "ProductName": "Rabbit",
+    "Quantity": 12,
+    "CurrentStock": 15,
+    "StockAvailable": true,
+     "Price": 1
+  },
+  {
+    "ID": 2,
+    "Store": "EAST",
+    "ProductName": "Hat",
+    "Quantity": 13,
+    "CurrentStock": 30,
+    "StockAvailable": true,
+   "Price": 15
+  },
+  {
+    "ID": 3,
+    "Store": "EAST",
+    "ProductName": "Pen",
+    "Quantity": 14,
+    "CurrentStock": 33,
+    "StockAvailable": true,
+    "Price": 2
+  },
+  {
+    "ID": 4,
+    "Store": "EAST",
+    "ProductName": "Pencil",
+    "Quantity": 5,
+    "CurrentStock": 34,
+    "StockAvailable": true,
+    "Price": 1
+  },
+  {
+    "ID": 5,
+    "Store": "EAST",
+    "ProductName": "Table",
+    "Quantity": 17,
+    "CurrentStock": 22,
+    "StockAvailable": true,
+    "Price": 40
+  },
+  {
+    "ID": 6,
+    "Store": "EAST",
+    "ProductName": "TV",
+    "Quantity": 2,
+    "CurrentStock": 3,
+    "StockAvailable": true,
+    "Price": 700
+  },
+  {
+    "ID": 7,
+    "Store": "EAST",
+    "ProductName": "book",
+    "Quantity": 9,
+    "CurrentStock": 24,
+    "StockAvailable": true,
+    "Price": 20
+  },
+  {
+    "ID": 8,
+    "Store": "EAST",
+    "ProductName": "cap",
+    "Quantity": 14,
+    "CurrentStock": 30,
+    "StockAvailable": true,
+    "Price": 10
+  },
+  {
+    "ID": 9,
+    "Store": "EAST",
+    "ProductName": "juice",
+    "Quantity": 3,
+    "CurrentStock": 7,
+    "StockAvailable": true,
+   "Price": 4
+  },
+  {
+    "ID": 10,
+    "Store": "EAST",
+    "ProductName": "milk",
+    "Quantity": 4,
+    "CurrentStock": 19,
+    "StockAvailable": true,
+   "Price": 2
+  },
+  {
+    "ID": 11,
+    "Store": "EAST",
+    "ProductName": "rice",
+    "Quantity": 19,
+    "CurrentStock": 30,
+    "StockAvailable": true,
+    "Price": 40
+  },
+  {
+    "ID": 12,
+    "Store": "EAST",
+    "ProductName": "chair",
+    "Quantity": 12,
+    "CurrentStock": 17,
+    "StockAvailable": true,
+    "Price": 30
+  },
+  {
+    "ID": 13,
+    "Store": "EAST",
+    "ProductName": "laptop",
+    "Quantity": 12,
+    "CurrentStock": 18,
+    "StockAvailable": true,
+    "Price": 1000
+  },
+  {
+    "ID": 14,
+    "Store": "EAST",
+    "ProductName": "sofa",
+    "Quantity": 20,
+    "CurrentStock": 24,
+    "StockAvailable": true,
+    "Price": 1000
+  },
+  {
+    "ID": 15,
+    "Store": "EAST",
+    "ProductName": "shoes",
+    "Quantity": 12,
+    "CurrentStock": 16,
+    "StockAvailable": true,
+    "Price": 120
+  }
+]

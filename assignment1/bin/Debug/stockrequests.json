@@ -1,0 +1,137 @@
+[
+  {
+    "ID": 1,
+    "Store": "South",
+    "ProductName": "Rabbit",
+    "Quantity": 2,
+    "CurrentStock": 21,
+    "StockAvailable": true,
+    "Price": 1
+  },
+  {
+    "ID": 2,
+    "Store": "CBD",
+    "ProductName": "Hat",
+    "Quantity": 3,
+    "CurrentStock": 11,
+    "StockAvailable": true,
+    "Price": 3
+  },
+  {
+    "ID": 3,
+    "Store": "South",
+    "ProductName": "Pen",
+    "Quantity": 4,
+    "CurrentStock": 20,
+    "StockAvailable": true,
+    "Price": 2
+  },
+  {
+    "ID": 4,
+    "Store": "South",
+    "ProductName": "Pencil",
+    "Quantity": 5,
+    "CurrentStock": 24,
+    "StockAvailable": true,
+    "Price": 1
+  },
+  {
+    "ID": 5,
+    "Store": "CBD",
+    "ProductName": "Table",
+    "Quantity": 7,
+    "CurrentStock": 35,
+    "StockAvailable": true,
+    "Price": 10
+  },
+  {
+    "ID": 6,
+    "Store": "North",
+    "ProductName": "TV",
+    "Quantity": 2,
+    "CurrentStock": 11,
+    "StockAvailable": true,
+    "Price": 100
+  },
+  {
+    "ID": 7,
+    "Store": "South",
+    "ProductName": "book",
+    "Quantity": 9,
+    "CurrentStock": 6,
+    "StockAvailable": false,
+    "Price": 20
+  },
+  {
+    "ID": 8,
+    "Store": "West",
+    "ProductName": "cap",
+    "Quantity": 14,
+    "CurrentStock": 2,
+    "StockAvailable": false,
+    "Price": 8
+  },
+  {
+    "ID": 9,
+    "Store": "South",
+    "ProductName": "juice",
+    "Quantity": 3,
+    "CurrentStock": 25,
+    "StockAvailable": true,
+    "Price": 3
+  },
+  {
+    "ID": 10,
+    "Store": "East",
+    "ProductName": "milk",
+    "Quantity": 4,
+    "CurrentStock": 23,
+    "StockAvailable": true,
+    "Price": 1
+  },
+  {
+    "ID": 11,
+    "Store": "North",
+    "ProductName": "rice",
+    "Quantity": 2,
+    "CurrentStock": 11,
+    "StockAvailable": true,
+    "Price": 50
+  },
+  {
+    "ID": 12,
+    "Store": "South",
+    "ProductName": "chair",
+    "Quantity": 1,
+    "CurrentStock": 10,
+    "StockAvailable": true,
+    "Price": 70
+  },
+  {
+    "ID": 13,
+    "Store": "South",
+    "ProductName": "laptop",
+    "Quantity": 1,
+    "CurrentStock": 6,
+    "StockAvailable": true,
+    "Price": 1000
+  },
+  {
+    "ID": 14,
+    "Store": "West",
+    "ProductName": "sofa",
+    "Quantity": 2,
+    "CurrentStock": 2,
+    "StockAvailable": true,
+    "Price": 1000
+  },
+  {
+    "ID": 15,
+    "Store": "South",
+    "ProductName": "shoes",
+    "Quantity": 12,
+    "CurrentStock": 5,
+    "StockAvailable": false,
+    "Price": 120
+  }
+]

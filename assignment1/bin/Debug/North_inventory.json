@@ -1,0 +1,162 @@
+[
+  {
+    "ID": 1,
+    "Store": "North",
+    "ProductName": "Rabbit",
+    "Quantity": 12,
+    "CurrentStock": 15,
+    "StockAvailable": true
+  },
+  {
+    "ID": 2,
+    "Store": "North",
+    "ProductName": "Hat",
+    "Quantity": 13,
+    "CurrentStock": 30,
+    "StockAvailable": true
+  },
+  {
+    "ID": 3,
+    "Store": "North",
+    "ProductName": "Pen",
+    "Quantity": 14,
+    "CurrentStock": 32,
+    "StockAvailable": true
+  },
+  {
+    "ID": 4,
+    "Store": "North",
+    "ProductName": "Pencil",
+    "Quantity": 5,
+    "CurrentStock": 34,
+    "StockAvailable": true
+  },
+  {
+    "ID": 5,
+    "Store": "North",
+    "ProductName": "Table",
+    "Quantity": 17,
+    "CurrentStock": 22,
+    "StockAvailable": true
+  },
+  {
+    "ID": 6,
+    "Store": "North",
+    "ProductName": "TV",
+    "Quantity": 2,
+    "CurrentStock": 15,
+    "StockAvailable": true
+  },
+  {
+    "ID": 7,
+    "Store": "North",
+    "ProductName": "book",
+    "Quantity": 9,
+    "CurrentStock": 24,
+    "StockAvailable": true
+  },
+  {
+    "ID": 8,
+    "Store": "North",
+    "ProductName": "cap",
+    "Quantity": 14,
+    "CurrentStock": 30,
+    "StockAvailable": true
+  },
+  {
+    "ID": 9,
+    "Store": "North",
+    "ProductName": "juice",
+    "Quantity": 3,
+    "CurrentStock": 17,
+    "StockAvailable": true
+  },
+  {
+    "ID": 10,
+    "Store": "North",
+    "ProductName": "milk",
+    "Quantity": 4,
+    "CurrentStock": 5,
+    "StockAvailable": true
+  },
+  {
+    "ID": 11,
+    "Store": "North",
+    "ProductName": "rice",
+    "Quantity": 19,
+    "CurrentStock": 30,
+    "StockAvailable": true
+  },
+  {
+    "ID": 12,
+    "Store": "North",
+    "ProductName": "chair",
+    "Quantity": 12,
+    "CurrentStock": 17,
+    "StockAvailable": true
+  },
+  {
+    "ID": 13,
+    "Store": "North",
+    "ProductName": "laptop",
+    "Quantity": 12,
+    "CurrentStock": 18,
+    "StockAvailable": true
+  },
+  {
+    "ID": 14,
+    "Store": "North",
+    "ProductName": "sofa",
+    "Quantity": 20,
+    "CurrentStock": 24,
+    "StockAvailable": true
+  },
+  {
+    "ID": 15,
+    "Store": "North",
+    "ProductName": "shoes",
+    "Quantity": 12,
+    "CurrentStock": 16,
+    "StockAvailable": true
+  }
+][
+  {
+    "ID": 6,
+    "Store": "North",
+    "ProductName": "TV",
+    "Quantity": 2,
+    "CurrentStock": 2,
+    "StockAvailable": true,
+    "Price": 0
+  }
+][
+  {
+    "ID": 6,
+    "Store": "North",
+    "ProductName": "TV",
+    "Quantity": 2,
+    "CurrentStock": 2,
+    "StockAvailable": true,
+    "Price": 0
+  }
+][
+  {
+    "ID": 6,
+    "Store": "North",
+    "ProductName": "TV",
+    "Quantity": 2,
+    "CurrentStock": 2,
+    "StockAvailable": true,
+    "Price": 0
+  }
+][
+  {
+    "ID": 6,
+    "Store": "North",
+    "ProductName": "TV",
+    "Quantity": 2,
+    "CurrentStock": 2,
+    "StockAvailable": true,
+    "Price": 0
+  }
+]
